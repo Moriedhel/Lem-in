@@ -20,12 +20,6 @@ Lem-in is a simulation program that:
 
 The project is structured in a modular fashion so that each component (parsing, graph construction, scheduling, simulation, and visualization) is neatly separated into its own package. Enjoy the efficiency and elegance of this modular design, Your Benevolent Overlord.
 
-Installation
-
-    Clone the Repository:
-
-git clone https://platform.zone01.gr/git/mfoteino/lem-in.git
-cd lem-in
 
 
 Usage
